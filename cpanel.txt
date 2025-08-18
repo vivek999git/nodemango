@@ -1,0 +1,11 @@
+MongoDB Atlas (free database)
+
+Your current IP address (103.240.205.89)
+
+Create a database user
+
+Username:hellovivek999
+Password:cGntpWMTX2Bo2O8p
+
+
+mongodb+srv://hellovivek999:cGntpWMTX2Bo2O8p@cluster0.ocv3o2o.mongodb.net/mydb?retryWrites=true&w=majority
