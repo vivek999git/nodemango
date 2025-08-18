@@ -8,7 +8,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // Routes
-app.use("/users", userRoutes);
+app.use("/api/users", userRoutes);
 
 // Set EJS as the template engine
 app.set('view engine', 'ejs');
